@@ -1,0 +1,12 @@
+Erro 1: 
+error: Your local changes to the following files would be overwritten by merge:
+	jogo.html
+Please commit your changes or stash them before you merge.
+
+Erro 2: Simple merge did not work, trying automatic merge.
+Auto-merging jogo.html
+ERROR: content conflict in jogo.html
+fatal: merge program failed
+Automated merge did not work.
+Should not be doing an octopus.
+Merge with strategy octopus failed.
